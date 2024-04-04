@@ -4,3 +4,6 @@
 ![gvit0](https://img.shields.io/badge/gvit-0-blue)
 
 Загрузка обновлений удалëнно.
+<hr size="5">
+Install.sh - установка pip<br>
+config.py - настройка репозитория
